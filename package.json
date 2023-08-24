@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "feather": "^0.0.5",
+    "node": "^20.4.0"
+  }
+}
